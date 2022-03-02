@@ -1,7 +1,7 @@
 # minecraft_dingding_msg
 
 ## Screenshot
-    ![screenshot](screenshot.png)
+   ![screenshot](screenshot.png)
 
 ## How to use?
 1. copy this script to your minecraft server
